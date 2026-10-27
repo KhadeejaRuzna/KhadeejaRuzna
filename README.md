@@ -20,7 +20,7 @@ I focus on solving problems, exploring new technologies, and strengthening my pr
 - Computer Networks & Network Security
 - Teaching, Mentoring & Knowledge Sharing
 
-## 💻 Technical Skills
+##  Technical Skills
 
 **Programming Languages**
 
